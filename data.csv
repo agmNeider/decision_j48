@@ -1,0 +1,11 @@
+moroso,antiguedad,ingresos,trabajo_fijo,Conceder
+si,high,medium,si,no
+no,low,medium,si,si
+si,medium,high,si,no
+no,high,high,no,si
+no,low,high,si,si
+si,medium,medium,si,no
+no,medium,high,si,si
+no,low,low,si,no
+no,high,medium,no,no
+si,medium,low,no,no
